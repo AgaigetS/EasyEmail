@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EasyEmail</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="button_check">Login</string>
+    <string name="login_success">LOGIN SUCCESS</string>
+    <string name="login_fail">Username or Password Wrong</string>
+</resources>
