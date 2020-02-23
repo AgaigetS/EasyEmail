@@ -5,4 +5,6 @@
     <string name="button_check">Login</string>
     <string name="login_success">LOGIN SUCCESS</string>
     <string name="login_fail">Username or Password Wrong</string>
+    <string name="list_email_error">ERROR OCCUR</string>
+
 </resources>
